@@ -1,0 +1,43 @@
+
+Plan po danima:
+
+1. Butterworth filter:
+a. Implementacija -Marija
+b. Verifikacija algoritma - Nataša
+2. Notch filter:
+a. Implementacija - Nataša
+b. Verifikacija algoritma - Marija
+3. Hampel filter:
+a. Implementacija - Marija
+b. Verifikacija algoritma - Nataša
+4. Vizualizacija: Spektogram
+a. Implementacija - Nataša
+b. Provera rezultata - Marija
+5. Vizuelizacija: Windowing:
+a. Implementacija - Marija
+b. Provera rezultata - Nataša
+6. Vizuelizacija: Pretvaranje u 2D grayscale sliku:
+a. Implementacija - Nataša
+b. Provera rezultata - Marija
+7. Konstrukcija arhitekture CNN - zajedno na jednom raèunaru
+8. Konstrukcija arhitekture CNN - zajedno na jednom raèunaru
+9. Treniranje: 
+a. Butterworth - Spektogram - Marija
+b. Butterworth - Windowing - Nataša
+10. Treniranje:  
+a. Butterworth - 2D Grayscale slika - Marija
+b. Notch - Spektogram - Nataša
+11. Treniranje: 
+a. Notch - Windowing  - Marija
+b. Notch - 2D Grayscale - Nataša
+12. Treniranje: 
+a. Hampel - Spektogram - Marija
+b. Hampel - Windowing - Nataša
+13. Treniranje:
+a. Hampel - 2D Grayscale slika - Marija
+b. Bez pretprocesiranja - Spektogram - Nataša
+14. Treniranje: 
+a. Bez pretprocesiranja - Windowing  - Marija
+b. Bez pretprocesiranja - 2D Grayscale - Nataša 
+15. Ponovno treniranje ukoliko je to neophodno - Marija
+16. Diskusija i obrada rezultata - Nataša
